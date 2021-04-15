@@ -10,7 +10,7 @@ export const products = [
   },
   {
     id: 1,
-    title: "The North Face Men Jacket",
+    title: "The North Face Men Jacket S",
     subtitle: "Model: AVMH_LC9",
     image: "./assets/man-jacket.png",
     description:
